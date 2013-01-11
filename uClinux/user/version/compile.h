@@ -1,0 +1,6 @@
+#define TOOLCHAIN_VERSION "#76 vendredi 11 janvier 2013, 17:22:52 (UTC+0100)"
+#define TOOLCHAIN_COMPILE_TIME "17:22:52"
+#define TOOLCHAIN_COMPILE_BY "geoffrey"
+#define TOOLCHAIN_COMPILE_HOST "geoffrey-box"
+#define TOOLCHAIN_COMPILE_DOMAIN ""
+#define TOOLCHAIN_COMPILER "gcc version 3.4.4"

@@ -1,0 +1,11 @@
+#
+# TS configuration
+#
+config TS_NAMES
+	bool "Touchscreen device"
+	default y
+	---help---
+	  By default touchscreen support will be enable.
+
+	  When in doubt, say Y.
+
